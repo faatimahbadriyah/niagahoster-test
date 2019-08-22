@@ -1,0 +1,34 @@
+[
+	{
+		"type": "Bayi", 
+		"price": 19000,
+		"new_price": 14900,
+		"users": 938,
+		"is_best": false,
+		"feature": "<p><strong>0.5X RESOURCE POWER</strong></p><p><strong>500 MB</strong> Disk Space</p><p><strong>Unlimited</strong> Bandwidth</p><p><strong>Unlimited</strong> Database</p><p><strong>1</strong> Domain</p><p><strong>Instant</strong> Backup</p><p><strong>Unlimited SSL</strong> Gratis Selamanya</p>"
+	},
+	{
+		"type": "Pelajar", 
+		"price": 45900,
+		"new_price": 23450,
+		"users": 4168,
+		"is_best": false,
+		"feature": "<p><strong>1X RESOURCE POWER</strong></p><p><strong>Unlimited</strong> Disk Space</p><p><strong>Unlimited</strong> Bandwidth</p><p><strong>Unlimited</strong> POP3 Email</p><p><strong>Unlimited</strong> Database</p><p><strong>10</strong> Addon Domain</p><p><strong>Instant</strong> Backup</p><p><strong>Domain</strong> Gratis</p><p><strong>Unlimited SSL</strong> Gratis Selamanya</p>"
+	},
+	{
+		"type": "Personal", 
+		"price": 58900,
+		"new_price": 38900,
+		"users": 10017,
+		"is_best": true,
+		"feature": "<p><strong>2X RESOURCE POWER</strong></p> <p><strong>Unlimited</strong> Disk Space</p><p><strong>Unlimited</strong> Bandwidth</p><p><strong>Unlimited</strong> POP3 Email</p><p><strong>Unlimited</strong> Database</p><p><strong>Unlimited</strong> Addon Domain</p><p><strong>Instant</strong> Backup</p><p><strong>Domain</strong> Gratis</p><p><strong>Unlimited SSL</strong> Gratis Selamanya</p><p><strong>Private</strong> Name Server</p><p><strong>SpamAsassin</strong> Mail Protection</p>"
+	},
+	{
+		"type": "Bisnis", 
+		"price": 109900,
+		"new_price": 65900,
+		"users": 3552,
+		"is_best": false,
+		"feature": "<p><strong>Unlimited</strong> Disk Space</p><p><strong>Unlimited</strong> Bandwidth</p><p><strong>Unlimited</strong> POP3 Email</p><p><strong>Unlimited</strong> Database</p><p><strong>Unlimited</strong> Addon Domain</p><p><strong>Instant</strong> Backup</p><p><strong>Domain</strong> Gratis</p><p><strong>Unlimited SSL</strong> Gratis Selamanya</p><p><strong>Private</strong> Name Server</p><p><strong>SpamAsassin</strong> Mail Protection</p><p><strong>Prioritas</strong> Layanan Support</p><p><strong>SpamExpert</strong> Pro Mail Protection</p>"
+	}
+]

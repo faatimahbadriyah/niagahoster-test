@@ -1,0 +1,77 @@
+@media (max-width: 600px) {
+  .carousel-caption {
+    display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+  }
+  .container {
+    padding: 20px 40px;
+  }
+  .navbar-header a img{
+    width: 20%;      
+    margin-left: 20px;
+  }
+  .navbar-brand{
+    float: none;
+  }
+  .table-responsive {
+    border: 0px;
+  }
+}
+.thumbnail {
+    padding: 0 0 15px 0;
+    border: none;
+    border-radius: 0;
+    background-color: transparent;
+    height: 150px; 
+    align-items: center; 
+    display: flex;
+}
+.nav-tabs li a {
+    color: #777;
+} 
+.navbar {
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 0;
+    background-color: #fff;
+    border: 0;
+    font-size: 14px !important;
+}
+.navbar li a, .navbar .navbar-brand { 
+    color: #616161 !important;
+    font-weight: bold;
+}
+.navbar-nav li a:hover {
+    color: #616161 !important;
+    font-weight: bold;
+}
+.navbar-nav li.active a {
+    color: #fff !important;
+    background-color: #00a2f3 !important;
+    font-weight: bold;
+}
+.navbar-toggle {
+    position: relative;
+    float: none;
+    padding: 15px 0px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+    border: 0px solid transparent;
+}
+.open .dropdown-toggle {
+    color: #fff;
+    background-color: #555 !important;
+}
+.dropdown-menu li a {
+    color: #000 !important;
+}
+.dropdown-menu li a:hover {
+    background-color: red !important;
+}
+footer {
+    background-color: #303030;
+    color: #fff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #00a2f3;
+}
